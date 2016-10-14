@@ -6,7 +6,7 @@ package:
   version: {{ version }}
 
 source:
-  git_url: https://github.com/csdms-contrib/{{ name }}
+  git_url: https://github.com/csdms-contrib/cem
   git_branch: bmi-cem-old
 
 requirements:
