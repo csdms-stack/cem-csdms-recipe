@@ -12,9 +12,11 @@ source:
 requirements:
   build:
     - bmi-babel
+    - cca-babel <2
     - cem
   run:
     - bmi-babel
+    - cca-babel <2
     - cem
 
 test:
