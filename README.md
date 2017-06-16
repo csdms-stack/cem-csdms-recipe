@@ -1,11 +1,6 @@
-
-
-
-
-
 # Current Build Status
 
-Linux, OSX: [![Build Status](https://travis-ci.org/csdms-stack/csdms-cem-recipe.svg?branch=master)](https://travis-ci.org/csdms-stack/csdms-cem-recipe)
+Linux, OSX: [![Build Status](https://travis-ci.org/csdms-stack/cem-csdms-recipe.svg?branch=master)](https://travis-ci.org/csdms-stack/cem-csdms-recipe)
 
 # About csdms-cem
 
